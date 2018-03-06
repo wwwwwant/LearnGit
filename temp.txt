@@ -1,3 +1,5 @@
 hello world
+<<<<<<< HEAD
 master test
-dev test
+=======
+>>>>>>> dev
